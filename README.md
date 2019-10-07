@@ -1,3 +1,6 @@
+# Budget controller.
+This application is a budget controller. First you enter an initial budget. Then, the expenses, which will be subtracted from the initial budget. It is built with React focusing on the Hooks. For the css Bootstrap has been used.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -2,10 +2,12 @@
   "name": "app-budget",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.1.2",
+    "shortid": "^2.2.15"
   },
   "scripts": {
     "start": "react-scripts start",
